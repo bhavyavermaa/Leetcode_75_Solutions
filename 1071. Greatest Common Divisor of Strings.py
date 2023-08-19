@@ -13,4 +13,3 @@ class Solution:
             if valid(i):
                 return str1[:i]
         return ""
-#GCD Mathematical Approach
